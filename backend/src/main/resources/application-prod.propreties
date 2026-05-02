@@ -1,0 +1,5 @@
+server.port=${PORT:8080}
+
+spring.data.mongodb.uri=${MONGODB_URI:mongodb+srv://espritmarket_db_user:qp7uOGQg12cXGBxN@cluster-app.niem1wi.mongodb.net/?appName=cluster-app
+}
+spring.data.mongodb.database=${MONGODB_DATABASE}
